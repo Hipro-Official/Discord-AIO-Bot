@@ -1,4 +1,4 @@
-# Discord Weather Bot
+# Discord AIO Bot
 
 ![PEP8 Test](https://github.com/Hipro-Official/Discord-AIO-Bot/workflows/PEP8%20Test/badge.svg)
 ![license](https://img.shields.io/badge/license-GPL--3.0-green)
